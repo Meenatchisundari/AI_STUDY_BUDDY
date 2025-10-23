@@ -380,7 +380,7 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 ## Contact
 
 **Meenatchi Sundari**  
-LinkedIn: [Your LinkedIn](https://linkedin.com/in/meenatchisundari)
+[Linkedin](https://linkedin.com/in/meenatchisundari)
 
 ---
 
